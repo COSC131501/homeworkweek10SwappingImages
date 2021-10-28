@@ -1,0 +1,17 @@
+#main{
+    width: 100%;
+    display: table;
+    overflow: hidden;
+    margin: -32px -9.5px auto;
+    float: right;
+    padding: 4px 4px 20px 8px;
+}
+
+#wrap {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    padding: 15px;
+    float: right;
+    
+  }
